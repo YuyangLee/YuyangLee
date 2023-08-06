@@ -6,7 +6,6 @@
 - Student Researcher at CoRe Lab, IAI, PKU
 - Research Intern at General Vision Lab, BIGAI
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
